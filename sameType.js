@@ -17,4 +17,10 @@ for (let i = 0; i<arr.length-1; i++){
     return true
 }
 
-console.log(checkType([1, 2, 3, "a"]))
+console.log(checkType([1, 2, 3, 1]))
+
+
+//or using the inbuilt function
+function checkType(arr){
+    return arr.every((val) => typeof val === typeof arr[0]);
+}
