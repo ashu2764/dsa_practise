@@ -1,4 +1,4 @@
-// Find the Pair  with the goiven sum in the array 
+// Find the Pair  with the given sum in the array 
 // input: [1, 2, 3, 4, 5], sum = 9
 // output: [4, 5] console.log("Hello, World!");
 
