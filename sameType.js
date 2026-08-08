@@ -1,6 +1,6 @@
 // Check if every elemts in the array is of the same type
 
-// [1, 2, 3, '']
+// [1, 2, 3, '']    
 
 
 function checkType(arr){
